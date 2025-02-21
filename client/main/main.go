@@ -11,6 +11,7 @@ import (
 
 func main() {
 	var loop = true
+	fmt.Println("Server Address:", utils.GetServerAddr())
 
 	fmt.Println("簡單聊天室")
 	fmt.Println("\n1 登入")
