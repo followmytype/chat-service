@@ -34,7 +34,7 @@ go build -o main.exe ./main
 > 可指定server位址，預設為`localhost:8889`
 
 1. 啟動畫面
-<img width="557" alt="image" src="https://github.com/user-attachments/assets/18852dc4-871f-476d-a03e-4d3bda9b4bae" />
+    <img width="557" alt="image" src="https://github.com/user-attachments/assets/18852dc4-871f-476d-a03e-4d3bda9b4bae" />
 2. 註冊畫面
-<img width="557" alt="image" src="https://github.com/user-attachments/assets/b5874bf6-8523-46b3-bfcc-38f93b346c2f" />
+    <img width="557" alt="image" src="https://github.com/user-attachments/assets/b5874bf6-8523-46b3-bfcc-38f93b346c2f" />
 
