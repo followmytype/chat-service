@@ -42,4 +42,20 @@ go build -o main.exe ./main
 3. 登入畫面
 
    <img width="557" alt="image" src="https://github.com/user-attachments/assets/159fdf79-9ffd-4082-9c56-0e06b9c09f1f" />
+4. 顯示在線用戶
+
+   <img width="557" alt="image" src="https://github.com/user-attachments/assets/36271b7a-7cad-4f12-9620-ea540df36ef8" />
+5. 開啟對話
+   * 傳送訊息給QQQ
+  
+     <img width="557" alt="image" src="https://github.com/user-attachments/assets/4a3fcc2d-2caf-4771-93cb-069845ccecf3" />
+   * QQQ端顯示有新訊息
+  
+     <img width="557" alt="image" src="https://github.com/user-attachments/assets/1fa671e7-9516-401e-b617-af6508167ffb" />
+   * QQQ端進入與aaa的聊天室並發送訊息
+  
+     <img width="557" alt="image" src="https://github.com/user-attachments/assets/0165a763-cc9c-4b87-94ce-16e826905af3" />
+
+
+
 
