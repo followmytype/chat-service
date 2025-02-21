@@ -1,4 +1,4 @@
-# 簡單聊天服務
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/3541b856-99fc-42ae-939a-3b31d4cc0c57" /># 簡單聊天服務
 採用簡易的tcp連線通訊做到即時的收發訊息，功能如下：
 1. 用戶註冊登入
 2. 用戶上線通知
@@ -18,6 +18,9 @@ go build -o main.exe ./main
 ./main.exe [port]
 ```
 > 可指定運行的port，預設為8889
+
+啟動畫面
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/a2dcfe7d-940c-4079-997f-0319a83357e6" />
 
 ### Client端
 可啟用多個做互相聊天
