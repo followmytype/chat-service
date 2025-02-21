@@ -13,7 +13,7 @@ func main() {
 		fmt.Println("服務啟動失敗：", err)
 	}
 	defer listen.Close()
-	fmt.Println("服務啟動..")
+	fmt.Println("服務啟動，port:", utils.GetPort())
 	for {
 		conn, err := listen.Accept()
 		if err != nil {
